@@ -44,4 +44,5 @@ hr {
 .btn-primary:hover {
 	background-color: #E86F00;
 	transform: rotate(360deg);
+	border-color: black;
 }
